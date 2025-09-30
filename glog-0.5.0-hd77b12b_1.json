@@ -1,0 +1,59 @@
+{
+  "build": "hd77b12b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "gflags >=2.2.2,<2.3.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\glog-0.5.0-hd77b12b_1",
+  "files": [
+    "Library/bin/glog.dll",
+    "Library/include/glog/export.h",
+    "Library/include/glog/log_severity.h",
+    "Library/include/glog/logging.h",
+    "Library/include/glog/raw_logging.h",
+    "Library/include/glog/stl_logging.h",
+    "Library/include/glog/vlog_is_on.h",
+    "Library/lib/cmake/glog/glog-config-version.cmake",
+    "Library/lib/cmake/glog/glog-config.cmake",
+    "Library/lib/cmake/glog/glog-modules.cmake",
+    "Library/lib/cmake/glog/glog-targets-release.cmake",
+    "Library/lib/cmake/glog/glog-targets.cmake",
+    "Library/lib/glog.lib",
+    "Library/lib/pkgconfig/libglog.pc",
+    ".nonadmin"
+  ],
+  "fn": "glog-0.5.0-hd77b12b_1.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\glog-0.5.0-hd77b12b_1",
+    "type": 1
+  },
+  "md5": "308b9011cc68360c32f7cc7bce90b86d",
+  "name": "glog",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\glog-0.5.0-hd77b12b_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libglog.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_34rovq6fwt/croot/glog_1706895288703/_h_env",
+        "sha256": "bf0fb761523e2cf7995b9316759d6ce14186fa8f82758ebbaac4e1f2b1f9ec5a",
+        "sha256_in_prefix": "782c7c914fa863245c66c4726333ea9271dcd38116578d70ed44b59b0d244328",
+        "size_in_bytes": 435
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::glog==0.5.0=hd77b12b_1[md5=308b9011cc68360c32f7cc7bce90b86d]",
+  "sha256": "09f6a119b6c16c707b8ee34da961bb4a1c311652bdc2accae87b9d81d0cbadbe",
+  "size": 94844,
+  "subdir": "win-64",
+  "timestamp": 1706895442000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/glog-0.5.0-hd77b12b_1.conda",
+  "version": "0.5.0"
+}
