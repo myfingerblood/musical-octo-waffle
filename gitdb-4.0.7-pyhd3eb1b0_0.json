@@ -1,0 +1,196 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.4",
+    "smmap >=3.0.1"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\gitdb-4.0.7-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/gitdb-4.0.7.dist-info/AUTHORS",
+    "Lib/site-packages/gitdb-4.0.7.dist-info/INSTALLER",
+    "Lib/site-packages/gitdb-4.0.7.dist-info/LICENSE",
+    "Lib/site-packages/gitdb-4.0.7.dist-info/METADATA",
+    "Lib/site-packages/gitdb-4.0.7.dist-info/RECORD",
+    "Lib/site-packages/gitdb-4.0.7.dist-info/REQUESTED",
+    "Lib/site-packages/gitdb-4.0.7.dist-info/WHEEL",
+    "Lib/site-packages/gitdb-4.0.7.dist-info/direct_url.json",
+    "Lib/site-packages/gitdb-4.0.7.dist-info/top_level.txt",
+    "Lib/site-packages/gitdb/__init__.py",
+    "Lib/site-packages/gitdb/base.py",
+    "Lib/site-packages/gitdb/const.py",
+    "Lib/site-packages/gitdb/db/__init__.py",
+    "Lib/site-packages/gitdb/db/base.py",
+    "Lib/site-packages/gitdb/db/git.py",
+    "Lib/site-packages/gitdb/db/loose.py",
+    "Lib/site-packages/gitdb/db/mem.py",
+    "Lib/site-packages/gitdb/db/pack.py",
+    "Lib/site-packages/gitdb/db/ref.py",
+    "Lib/site-packages/gitdb/exc.py",
+    "Lib/site-packages/gitdb/fun.py",
+    "Lib/site-packages/gitdb/pack.py",
+    "Lib/site-packages/gitdb/stream.py",
+    "Lib/site-packages/gitdb/test/__init__.py",
+    "Lib/site-packages/gitdb/test/lib.py",
+    "Lib/site-packages/gitdb/test/test_base.py",
+    "Lib/site-packages/gitdb/test/test_example.py",
+    "Lib/site-packages/gitdb/test/test_pack.py",
+    "Lib/site-packages/gitdb/test/test_stream.py",
+    "Lib/site-packages/gitdb/test/test_util.py",
+    "Lib/site-packages/gitdb/typ.py",
+    "Lib/site-packages/gitdb/util.py",
+    "Lib/site-packages/gitdb/utils/__init__.py",
+    "Lib/site-packages/gitdb/utils/encoding.py",
+    ".nonadmin",
+    "Lib/site-packages/gitdb/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/gitdb/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/gitdb/__pycache__/const.cpython-312.pyc",
+    "Lib/site-packages/gitdb/db/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/gitdb/db/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/gitdb/db/__pycache__/git.cpython-312.pyc",
+    "Lib/site-packages/gitdb/db/__pycache__/loose.cpython-312.pyc",
+    "Lib/site-packages/gitdb/db/__pycache__/mem.cpython-312.pyc",
+    "Lib/site-packages/gitdb/db/__pycache__/pack.cpython-312.pyc",
+    "Lib/site-packages/gitdb/db/__pycache__/ref.cpython-312.pyc",
+    "Lib/site-packages/gitdb/__pycache__/exc.cpython-312.pyc",
+    "Lib/site-packages/gitdb/__pycache__/fun.cpython-312.pyc",
+    "Lib/site-packages/gitdb/__pycache__/pack.cpython-312.pyc",
+    "Lib/site-packages/gitdb/__pycache__/stream.cpython-312.pyc",
+    "Lib/site-packages/gitdb/test/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/gitdb/test/__pycache__/lib.cpython-312.pyc",
+    "Lib/site-packages/gitdb/test/__pycache__/test_base.cpython-312.pyc",
+    "Lib/site-packages/gitdb/test/__pycache__/test_example.cpython-312.pyc",
+    "Lib/site-packages/gitdb/test/__pycache__/test_pack.cpython-312.pyc",
+    "Lib/site-packages/gitdb/test/__pycache__/test_stream.cpython-312.pyc",
+    "Lib/site-packages/gitdb/test/__pycache__/test_util.cpython-312.pyc",
+    "Lib/site-packages/gitdb/__pycache__/typ.cpython-312.pyc",
+    "Lib/site-packages/gitdb/__pycache__/util.cpython-312.pyc",
+    "Lib/site-packages/gitdb/utils/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/gitdb/utils/__pycache__/encoding.cpython-312.pyc"
+  ],
+  "fn": "gitdb-4.0.7-pyhd3eb1b0_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\gitdb-4.0.7-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "bdd15a7149734880c003d98110c56b5b",
+  "name": "gitdb",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\gitdb-4.0.7-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/base.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/const.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/db/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/db/__pycache__/base.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/db/__pycache__/git.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/db/__pycache__/loose.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/db/__pycache__/mem.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/db/__pycache__/pack.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/db/__pycache__/ref.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/exc.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/fun.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/pack.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/stream.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/test/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/test/__pycache__/lib.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/test/__pycache__/test_base.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/test/__pycache__/test_example.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/test/__pycache__/test_pack.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/test/__pycache__/test_stream.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/test/__pycache__/test_util.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/typ.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/__pycache__/util.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/utils/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gitdb/utils/__pycache__/encoding.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::gitdb==4.0.7=pyhd3eb1b0_0[md5=bdd15a7149734880c003d98110c56b5b]",
+  "sha256": "90dc1cfd783c82154be805118670775b0f5950d47faadfa8321a4f1e0ff7050a",
+  "size": 51023,
+  "subdir": "noarch",
+  "timestamp": 1617117989000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/gitdb-4.0.7-pyhd3eb1b0_0.conda",
+  "version": "4.0.7"
+}
