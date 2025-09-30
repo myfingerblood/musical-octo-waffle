@@ -1,0 +1,125 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "attrs >=16.1.0",
+    "python",
+    "six"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\automat-20.2.0-py_0",
+  "files": [
+    "Lib/site-packages/Automat-20.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/Automat-20.2.0.dist-info/LICENSE",
+    "Lib/site-packages/Automat-20.2.0.dist-info/METADATA",
+    "Lib/site-packages/Automat-20.2.0.dist-info/RECORD",
+    "Lib/site-packages/Automat-20.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/Automat-20.2.0.dist-info/WHEEL",
+    "Lib/site-packages/Automat-20.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/Automat-20.2.0.dist-info/entry_points.txt",
+    "Lib/site-packages/Automat-20.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/automat/__init__.py",
+    "Lib/site-packages/automat/_core.py",
+    "Lib/site-packages/automat/_discover.py",
+    "Lib/site-packages/automat/_introspection.py",
+    "Lib/site-packages/automat/_methodical.py",
+    "Lib/site-packages/automat/_test/__init__.py",
+    "Lib/site-packages/automat/_test/test_core.py",
+    "Lib/site-packages/automat/_test/test_discover.py",
+    "Lib/site-packages/automat/_test/test_methodical.py",
+    "Lib/site-packages/automat/_test/test_trace.py",
+    "Lib/site-packages/automat/_test/test_visualize.py",
+    "Lib/site-packages/automat/_visualize.py",
+    ".nonadmin",
+    "Lib/site-packages/automat/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/automat/__pycache__/_core.cpython-312.pyc",
+    "Lib/site-packages/automat/__pycache__/_discover.cpython-312.pyc",
+    "Lib/site-packages/automat/__pycache__/_introspection.cpython-312.pyc",
+    "Lib/site-packages/automat/__pycache__/_methodical.cpython-312.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_core.cpython-312.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_discover.cpython-312.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_methodical.cpython-312.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_trace.cpython-312.pyc",
+    "Lib/site-packages/automat/_test/__pycache__/test_visualize.cpython-312.pyc",
+    "Lib/site-packages/automat/__pycache__/_visualize.cpython-312.pyc",
+    "Scripts/automat-visualize-script.py",
+    "Scripts/automat-visualize.exe"
+  ],
+  "fn": "automat-20.2.0-py_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\automat-20.2.0-py_0",
+    "type": 1
+  },
+  "md5": "d7473c2f9d0dd6d090c8c3e78aaa69b4",
+  "name": "automat",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\automat-20.2.0-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_core.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_discover.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_introspection.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_methodical.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_core.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_discover.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_methodical.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_trace.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/_test/__pycache__/test_visualize.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/automat/__pycache__/_visualize.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/automat-visualize-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::automat==20.2.0=py_0[md5=d7473c2f9d0dd6d090c8c3e78aaa69b4]",
+  "sha256": "c53ed6c1cc91ba708d4823cb565c080e9589b76ee6f5c431a1d70d74d42e8816",
+  "size": 32017,
+  "subdir": "noarch",
+  "timestamp": 1600298502000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/automat-20.2.0-py_0.conda",
+  "version": "20.2.0"
+}
