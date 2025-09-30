@@ -1,0 +1,57 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\filelock-3.13.1-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/filelock-3.13.1.dist-info/INSTALLER",
+    "Lib/site-packages/filelock-3.13.1.dist-info/METADATA",
+    "Lib/site-packages/filelock-3.13.1.dist-info/RECORD",
+    "Lib/site-packages/filelock-3.13.1.dist-info/REQUESTED",
+    "Lib/site-packages/filelock-3.13.1.dist-info/WHEEL",
+    "Lib/site-packages/filelock-3.13.1.dist-info/direct_url.json",
+    "Lib/site-packages/filelock-3.13.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/filelock/__init__.py",
+    "Lib/site-packages/filelock/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_api.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_error.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_soft.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_unix.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_util.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_windows.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/version.cpython-312.pyc",
+    "Lib/site-packages/filelock/_api.py",
+    "Lib/site-packages/filelock/_error.py",
+    "Lib/site-packages/filelock/_soft.py",
+    "Lib/site-packages/filelock/_unix.py",
+    "Lib/site-packages/filelock/_util.py",
+    "Lib/site-packages/filelock/_windows.py",
+    "Lib/site-packages/filelock/py.typed",
+    "Lib/site-packages/filelock/version.py",
+    ".nonadmin"
+  ],
+  "fn": "filelock-3.13.1-py312haa95532_0.conda",
+  "license": "Unlicense",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\filelock-3.13.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "4ed2666b1d1ba1dc53229ecac885c134",
+  "name": "filelock",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\filelock-3.13.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::filelock==3.13.1=py312haa95532_0[md5=4ed2666b1d1ba1dc53229ecac885c134]",
+  "sha256": "c75b8ecc61b4055a6464ac46f56aff9140e2de4584810779f1bb3e82d82b51d9",
+  "size": 23983,
+  "subdir": "win-64",
+  "timestamp": 1701807548000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/filelock-3.13.1-py312haa95532_0.conda",
+  "version": "3.13.1"
+}
