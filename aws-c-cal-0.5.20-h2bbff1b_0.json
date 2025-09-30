@@ -1,0 +1,49 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-cal-0.5.20-h2bbff1b_0",
+  "files": [
+    "Library/bin/aws-c-cal.dll",
+    "Library/bin/produce_x_platform_fuzz_corpus.exe",
+    "Library/bin/run_x_platform_fuzz_corpus.exe",
+    "Library/bin/sha256_profile.exe",
+    "Library/include/aws/cal/cal.h",
+    "Library/include/aws/cal/ecc.h",
+    "Library/include/aws/cal/exports.h",
+    "Library/include/aws/cal/hash.h",
+    "Library/include/aws/cal/hmac.h",
+    "Library/lib/aws-c-cal.lib",
+    "Library/lib/aws-c-cal/cmake/aws-c-cal-config.cmake",
+    "Library/lib/aws-c-cal/cmake/modules/Findcrypto.cmake",
+    "Library/lib/aws-c-cal/cmake/shared/aws-c-cal-targets-release.cmake",
+    "Library/lib/aws-c-cal/cmake/shared/aws-c-cal-targets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "aws-c-cal-0.5.20-h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-cal-0.5.20-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "dd5e191a7f1ff009677ab70c1d1b3b6b",
+  "name": "aws-c-cal",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-cal-0.5.20-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aws-c-cal==0.5.20=h2bbff1b_0[md5=dd5e191a7f1ff009677ab70c1d1b3b6b]",
+  "sha256": "c0c7c9e0d5d031aacbe4c4a3313b59082a41475600502d169664342bf22cd0ec",
+  "size": 42394,
+  "subdir": "win-64",
+  "timestamp": 1706691182000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-cal-0.5.20-h2bbff1b_0.conda",
+  "version": "0.5.20"
+}
